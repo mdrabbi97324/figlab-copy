@@ -119,7 +119,7 @@ span {
 
 /* ===========Responsive Style start============ */
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 998px) {
     nav,
     .banner-container {
         flex-direction: column;
@@ -148,9 +148,9 @@ span {
     
 }
 
-/*  -------------Small device max width 576 */
+ /* -------------Small device---------------------- */
 
-@media  screen  and (min-width: 350px) and (max-width: 575px){
+@media  screen  and (min-width: 350px) and (max-width: 500px){
 
     nav > ul {
         display: none;
