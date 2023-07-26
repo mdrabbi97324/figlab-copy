@@ -6,6 +6,12 @@
   font-family: "Inter", sans-serif;
   font-family: "Roboto", sans-serif;
 }
+body {
+        max-width: 1440px;
+        padding: 0 50px;
+        margin: 0 auto;
+      
+}
 
 /* ----------Start Heading Styles-------------- */
 
